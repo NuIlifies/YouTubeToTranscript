@@ -10,9 +10,6 @@ from pydub.utils import make_chunks
 
 #from pocketsphinx import AudioFile, get_model_path, get_data_path
 
-# https://www.youtube.com/watch?v=42OleX0HR4E
-# stop looking up carykh smh
-
 
 # get vid link and store to vid
 vid = input("Paste video link: ")
